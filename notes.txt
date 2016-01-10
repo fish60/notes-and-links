@@ -8,6 +8,9 @@ Acrobat Pro 8.0
 Win http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/STEP/APRO23_Win_ESD1_WWEFG.exe
 1118-1414-1955-8737-8172-0350
 
+需要尋找檔案 .dll，以及使用 win7 相容性 (?)
+
+
 
 
 
